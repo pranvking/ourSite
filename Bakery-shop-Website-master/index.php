@@ -91,7 +91,8 @@
 
     <section class="my-5">
       <div class="py-5">
-        <h2 class="text-center">Our Popular Products</h2>
+        <h2 class="text-center">Browse Our Menu</h2>
+        <h4 style="align-text: end">View all ></h4>
       </div>
       <div class="container-fluid">
         <div class="row">

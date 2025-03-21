@@ -42,19 +42,15 @@
                     <div class="col-lg-6 col-md-6 col-12">
                         <h2 class="display-4">We are Pauroti Bakery</h2>
                         <p class="py-3">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            Tristique magna sit amet purus gravida.
-                            In metus vulputate eu scelerisque felis.
-                            Amet porttitor eget dolor morbi non arcu risus.
-                            Ipsum consequat nisl vel pretium lectus quam.
+                            At Pauroti, we are passionate about crafting delicious, homemade baked goods that bring warmth and joy to every bite. Using the finest ingredients and time-honored recipes, we create fresh breads, pastries, and cakes that nourish both body and soul. Whether you're celebrating a special occasion or simply indulging in a daily treat, our mission is to make every moment sweeter with our handcrafted delights.
                         </p>
                     </div>
                 </div>
             </div>
-        </section>
+        </section>  
 
         <footer>
-            <p class="p-4  bg-dark text-white text-right">@Pauroti</p>
+            <p class="p-3 bg-dark text-white text-right" style="background-color: brown">@Paurati</p>
         </footer>
 
     </div>
