@@ -146,19 +146,19 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/whole_wheat_bun.jpg" class="img-fluid pb-4 serviceimg" alt="">
+          <img src="images/bg.jpg" class="img-fluid pb-4 serviceimg" alt="">
         </div>
         <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/whole_wheat_bun.jpg" class="img-fluid pb-4 serviceimg" alt="">
+          <img src="images/breads.jpg" class="img-fluid pb-4 serviceimg" alt="">
         </div>
         <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/whole_wheat_bun.jpg" class="img-fluid pb-4 serviceimg" alt="">
+          <img src="images/BUN.jpg" class="img-fluid pb-4 serviceimg" alt="">
         </div>
         <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/whole_wheat_bun.jpg" class="img-fluid pb-4 serviceimg" alt="">
+          <img src="images/croissant.jpg" class="img-fluid pb-4 serviceimg" alt="">
         </div>
         <div class="col-lg-4 col-md-4 col-12">
-          <img src="images/whole_wheat_bun.jpg" class="img-fluid pb-4 serviceimg" alt="">
+          <img src="images/Dora.jpg" class="img-fluid pb-4 serviceimg" alt="">
         </div>
         <div class="col-lg-4 col-md-4 col-12">
           <img src="images/whole_wheat_bun.jpg" class="img-fluid pb-4 serviceimg" alt="">
