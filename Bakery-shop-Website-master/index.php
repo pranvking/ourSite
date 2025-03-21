@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
-  <title>Artisan's bakery</title>
+  <title>Paurati</title>
 
 
 </head>
@@ -23,24 +23,33 @@
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
       <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/bg.jpg" class="d-block w-100" alt="...">
+        <img src="images/BUN.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <p> Best bread in the world.</p>
         </div>
       </div>
+      
       <div class="carousel-item">
         <img src="images/bg2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Second slide label</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>Please drink our coffee.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="images/breads.jpg" class="d-block w-100" alt="...">
+        <img src="images/Dora.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Third slide label</h5>
+          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="images/croissant.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -66,8 +75,8 @@
     <div class="container-fluid">
 
       <div class="row">
-        <div class="col-lg-6 col-md-6 col-12">
-          <img src="images/coffee.jpg" class="img-fluid aboutimg" alt="">
+        <div class="col-lg-4 col-md-6 col-12">
+          <img src="images/bread-5470532.jpg" class="img-fluid aboutimg" alt="">
         </div>
         <div class="col-lg-6 col-md-6 col-12">
           <h2 class="display-4">We are Artisan's Bakery</h2>
@@ -200,7 +209,7 @@
   </section>
 
   <footer>
-    <p class="p-3 bg-dark text-white text-right" style="background-color: brown">@AfrozChakureCorp</p>
+    <p class="p-3 bg-dark text-white text-right" style="background-color: brown">@Paurati</p>
   </footer>
 
 

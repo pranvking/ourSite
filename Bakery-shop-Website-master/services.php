@@ -21,7 +21,7 @@
 
     <div class="container">
         <div class="jumbotron">
-            <h1>Artisan's Bakery</h1>
+            <h1>Paurati</h1>
             <p>Your one stop solution to daily bread and coffee.</p>
         </div>
         <!-- <p>This is some text.</p>
