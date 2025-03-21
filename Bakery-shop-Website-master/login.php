@@ -18,7 +18,7 @@
 
 <body>
 
-  <!-- Navigation Bar -->
+  <!-- Navigation Barr -->
   <?php include 'menu.php' ?>
 
   <div class="container">
@@ -44,7 +44,7 @@
         </div>
         <div class="form-group">
           <label for="">Password</label>
-          <input type="text" name="email" id="" class="form-control" placeholder="">
+          <input type="password" name="email" id="" class="form-control" placeholder="">
           <!-- <small id="helpId" class="text-muted">Help text</small> -->
         </div>
         
@@ -57,8 +57,11 @@
     <footer>
       <p class="p-3 bg-dark text-white text-right">@Pauroti</p>
     </footer>
-
+    
   </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </body>
 
 </html>
