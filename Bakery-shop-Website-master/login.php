@@ -18,7 +18,7 @@
 
 <body>
 
-  <!-- Navigation Bar -->
+  <!-- Navigation Barr -->
   <?php include 'menu.php' ?>
 
   <div class="container">
