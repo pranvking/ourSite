@@ -29,7 +29,6 @@
         <div class="carousel-item active">
           <img src="images/BUN.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>First slide label</h5>
             <p> Best bread in the world.</p>
           </div>
         </div>
@@ -37,21 +36,18 @@
         <div class="carousel-item">
           <img src="images/bg2.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Second slide label</h5>
             <p>Please drink our coffee.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="images/Dora.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
             <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="images/croissant.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
             <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
           </div>
         </div>
