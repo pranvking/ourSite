@@ -43,7 +43,7 @@
           <!-- <small id="helpId" class="text-muted">Help text</small> -->
         </div>
         <div class="form-group">
-          <label for="">Password</label>
+          <label for="">Passdword</label>
           <input type="text" name="email" id="" class="form-control" placeholder="">
           <!-- <small id="helpId" class="text-muted">Help text</small> -->
         </div>
