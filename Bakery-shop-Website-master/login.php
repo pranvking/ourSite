@@ -23,7 +23,7 @@
 
   <div class="container">
     <div class="jumbotron">
-      <h1>Artisan's Bakery</h1>
+      <h1>Pauroti Bakery</h1>
       <p>Your one stop solution to daily bread and coffee.</p>
     </div>
     <!-- <p>This is some text.</p>
@@ -55,7 +55,7 @@
 
 
     <footer>
-      <p class="p-3 bg-dark text-white text-right">@AfrozChakureCorp</p>
+      <p class="p-3 bg-dark text-white text-right">@Pauroti</p>
     </footer>
 
   </div>
