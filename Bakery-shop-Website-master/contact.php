@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
   <script src="js/script.js">
   </script>
-  <title>Artisan's bakery</title>
+  <title>Pauroti bakery</title>
 
 
 </head>
@@ -19,11 +19,11 @@
 <body>
 
   <!-- Navigation Bar -->
-  <?php include 'menu.php' ?>
+  <?php include 'menu.php' ?> 
 
   <div class="container">
     <div class="jumbotron">
-      <h1>Artisan's Bakery</h1>
+      <h1>Pauroti Bakery</h1>
       <p>Your one stop solution to daily bread and coffee.</p>
     </div>
     <!-- <p>This is some text.</p>
@@ -64,7 +64,7 @@
 
 
     <footer>
-      <p class="p-3 bg-dark text-white text-right">@AfrozChakureCorp</p>
+      <p class="p-3 bg-dark text-white text-right">@Pauroti</p>
     </footer>
 
   </div>

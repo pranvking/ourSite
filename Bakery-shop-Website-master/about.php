@@ -21,7 +21,7 @@
 
     <div class="container">
         <div class="jumbotron">
-            <h1>Artisan's Bakery</h1>
+            <h1>Pauroti</h1>
             <p>Your one stop solution to daily bread and coffee.</p>
         </div>
         <!-- <p>This is some text.</p>
@@ -40,7 +40,7 @@
                         <img src="images/coffee.jpg" class="img-fluid aboutimg" alt="">
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
-                        <h2 class="display-4">We are Artisan's Bakery</h2>
+                        <h2 class="display-4">We are Pauroti Bakery</h2>
                         <p class="py-3">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             Tristique magna sit amet purus gravida.
@@ -48,14 +48,13 @@
                             Amet porttitor eget dolor morbi non arcu risus.
                             Ipsum consequat nisl vel pretium lectus quam.
                         </p>
-                        <a href="about.php" class="btn btn-success">Wanna Know More</a>
                     </div>
                 </div>
             </div>
         </section>
 
         <footer>
-            <p class="p-3 bg-dark text-white text-right">@AfrozChakureCorp</p>
+            <p class="p-4  bg-dark text-white text-right">@Pauroti</p>
         </footer>
 
     </div>
